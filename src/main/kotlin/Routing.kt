@@ -43,7 +43,7 @@ fun Application.configureRouting() {
 
     routing {
         get("/") {
-            call.respondText("11S23009 - Elkana Sitorus")
+            call.respondText("11S23025 - Daniel L. Tobing")
         }
 
         route("/todos") {
